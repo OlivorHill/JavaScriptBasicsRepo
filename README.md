@@ -13,3 +13,5 @@ git remote -v
 
 # Testing changes in files when merging / doing pull requests
 I am adding more lines into this file to check if the git diff command is working as it should be.
+
+# Adding the test text to the master branch of this repo
