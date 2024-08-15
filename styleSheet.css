@@ -9,3 +9,9 @@ p {
     color: aqua;
     size: 16px;
 }
+
+p.hover {
+    font-family: Helvetica;
+    color: aqua;
+    size: 18;
+}
