@@ -13,5 +13,14 @@ p {
 p.hover {
     font-family: Helvetica;
     color: aqua;
+    size: 13px;
+}
+
+h2 {
+    font-family: Futura;
+    color: hsl(271, 76%, 53%);
     size: 18px;
 }
+    size: 18px;
+}
+
