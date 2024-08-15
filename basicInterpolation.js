@@ -20,5 +20,5 @@ const basicInterpolation = (firstName, lastName, age) => {
     return interpolatedPhrase
 }
 
-document.getElementById("interpolatedString").innerHTML = basicInterpolation(firstName, lastName, ageToNum);
+
 console.log(basicInterpolation(firstName, lastName, ageToNum));

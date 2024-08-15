@@ -3,3 +3,9 @@ h1 {
     color: blueviolet;
     size: 20px;
 }
+
+p {
+    font-family: Helvetica;
+    color: aqua;
+    size: 16px;
+}
